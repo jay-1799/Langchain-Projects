@@ -71,7 +71,7 @@ data/
 datasets/
 
 # Model checkpoints and serialized models
-*.h5
+*.h5Ge
 *.hdf5
 *.ckpt
 *.pth
